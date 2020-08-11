@@ -1,6 +1,6 @@
 ## docsify
 
-> A magical documentation site generator.
+> A magical kms site generator.
 
 ## What it is
 
